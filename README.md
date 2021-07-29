@@ -1,10 +1,10 @@
-# Collaborators: 
+# Collaborators 
 **Anastasakis Zacharias: https://github.com/ZachariasAnastasakis  
 Antoniou Konstantinos: https://github.com/KonstantinosAntoniou**
   
     
   
-# Installation:
+# Installation
 
 
 
