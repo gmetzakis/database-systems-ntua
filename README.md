@@ -1,7 +1,6 @@
-CONTRIBUERS:
-	ANASTASAKIS ZACHARIAS: https://github.com/ZachariasAnastasakis
-	
-ANTONIOU KONSTANTINOS: https://github.com/KonstantinosAntoniou
+CONTRIBUERS:  
+	ANASTASAKIS ZACHARIAS: https://github.com/ZachariasAnastasakis  
+	ANTONIOU KONSTANTINOS: https://github.com/KonstantinosAntoniou
 
 
 
