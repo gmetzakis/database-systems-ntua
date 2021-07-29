@@ -1,20 +1,18 @@
-Collaborators:  
-	Anastasakis Zacharias: https://github.com/ZachariasAnastasakis  
-	Antoniou Konstantinos: https://github.com/KonstantinosAntoniou
+# Collaborators: 
+**Anastasakis Zacharias: https://github.com/ZachariasAnastasakis  
+Antoniou Konstantinos: https://github.com/KonstantinosAntoniou**
+  
+    
+  
+# Installation:
 
 
 
-
-
-For installation:
-
-
-
-1. Fill correctly the "password" field in files "back-end/controller/db.js" and "back-end/server.js" if MySQL Server is password protected.
+1: Fill correctly the "password" field in files "back-end/controller/db.js" and "back-end/server.js" if MySQL Server is password protected.
 
 
 
-2. Open terminal at home root of project (/Databases_app):
+2: Open terminal at home root of project (/Databases_app):
   
 	a. Run "cd sql" to enter sql folder.
   
@@ -24,7 +22,7 @@ For installation:
   
 
 
-3. Open new terminal at home root of project (/Databases_app):
+3: Open new terminal at home root of project (/Databases_app):
   
 	a. Run "cd back-end" to enter back-end folder.
   
@@ -34,7 +32,7 @@ For installation:
   
 
 
-4. Open new terminal at home root of project (/Databases_app):
+4: Open new terminal at home root of project (/Databases_app):
 
 	a. Run "cd front-end" to enter front-end folder.
   
@@ -44,4 +42,4 @@ For installation:
   
 
 
-5. Go to "localhost:3000" and have fun! (It may take a while to load the first time, so don't close it, thinking that it doesn't work)
+5: Go to "localhost:3000" and have fun! (It may take a while to load the first time, so don't close it, thinking that it doesn't work)
