@@ -1,7 +1,7 @@
 CONTRIBUERS:
 	ANASTASAKIS ZACHARIAS: https://github.com/ZachariasAnastasakis
 	
-	ANTONIOU KONSTANTINOS: https://github.com/KonstantinosAntoniou
+ANTONIOU KONSTANTINOS: https://github.com/KonstantinosAntoniou
 
 
 
